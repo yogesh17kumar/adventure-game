@@ -23,6 +23,12 @@
    ```
 4. A URL will be provided. Open this URL in a web browser to begin your adventure.
 
+## How to Play
+
+You can play the game by visiting the following link:
+
+[Play The Mystical Forest Adventure Game](https://adventuregameyogesh.streamlit.app/)
+
 ## File Details
 
 - **adventure_game.py**: Main application file containing the game logic and story structure.
